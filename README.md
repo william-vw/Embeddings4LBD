@@ -1,3 +1,10 @@
+This online appendix is meant to accompany the submission "Using Word Embeddings to Extract Semantic Relations from Biomedical Texts: Towards Literature-Based Discovery".
+
+The full experiment results can be found here:
+- Identifying existing FR
+- Discovering unknown FR
+
+
 For other details on the word embedding models and how they are being used, we refer to the MSc thesis by Sushumna S. Pradeep [1].
 
 # Word Embedding Models
